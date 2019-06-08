@@ -4,7 +4,7 @@ Compiling Hello-Java Using Ant in Jenkins
 -Prerequisites: Jenkins should have - Ant Integration plugin and ant installed in host.
 ``yum install ant``
 
--Repo Reference: https://github.com/prasanjit-/hello-java-ant
+-Repo Reference: https://github.com/ajaymasale/hello-java-ant
 
 
 ```sh
